@@ -1,125 +1,111 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm <span style="color:#4F8EF7">Jayesh Phale</span></h1>
-<h3 align="center">Frontend Developer | React.js | JavaScript | WordPress</h3>
+# 👋 Hi, I'm **Jayesh Phale**
+### 🚀 Software Engineer – Full Stack (MERN) | React.js | Node.js | WordPress | AWS
+
+I am a passionate **Full-Stack Developer** with 2+ years of experience building scalable, high-performance web applications.  
+Skilled in **React.js, Node.js, MongoDB, AWS, WordPress**, and modern frontend architectures.  
+I love writing clean, maintainable code and solving real-world problems through technology.
 
 ---
 
-## 🚀 About Me
-Frontend Developer skilled in building **responsive**, **high-performance**, **SEO-optimized** web applications.  
-At **I-Medita**, I reduced website load time from **10s → 0.4s**, resulting in **9% business growth**.  
-Completed **6+ Crio.Do certifications** across Frontend Development & DSA.
-
-🎯 Passionate about **UI/UX**, **performance optimization**, and **modern frontend engineering**.
-
----
-
-## 🔧 Tech Stack & Tools
-
-### **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,materialui" />
-</p>
-
-### **Backend / Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-</p>
-
-### **CMS / Platforms**
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
-</p>
-
-### **Tools & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" />
-  <img src="https://img.shields.io/badge/AWS_Lightsail-FFA41C?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+## 🌟 **About Me**
+- 🚀 Improved website load time **from 10s → 0.4s** (96% improvement)  
+- 📈 Helped company achieve **9% business growth in 2025** through digital improvements  
+- 💼 Experience in **frontend development, performance optimization, UI architecture**, and cloud deployments  
+- 🎨 Strong in responsive UI, reusable components, and user-centric design  
+- 💡 Passionate about learning, clean code, and product engineering
 
 ---
 
-## 💼 Work Experience
+## 🛠️ **Tech Stack**
 
-### **Web Developer — I-Medita Learning Solutions Pvt. Ltd.**  
-📅 *Oct 2024 – Present*
+### **Frontend**
+React.js • JavaScript (ES6+) • TypeScript • Redux • React Router  
+HTML5 • CSS3 • Flexbox • Bootstrap • Material UI • Swiper.js  
+Responsive Design • Accessibility (WCAG)
 
-- Improved website load time **10s → 0.4s** (Google PageSpeed)  
-- Contributed to **9% company growth (2025)** through web performance improvements  
-- Implemented UI/UX enhancements, SEO, and cross-browser compatibility  
-- Managed WordPress, Elementor Pro, AWS Lightsail & LAMP stack  
-- Collaborated with design & engineering teams for efficient development  
+### **Backend**
+Node.js • Express.js • REST APIs  
+JWT Authentication • Middleware • MVC Architecture
 
----
+### **Database**
+MongoDB • Mongoose • SQL Basics • LocalStorage / SessionStorage
 
-### **Intern Web Developer — I-Medita Learning Solutions Pvt. Ltd.**  
-📅 *Jul 2023 – Oct 2024*
+### **Tools & Testing**
+Git • GitHub • Postman • Jest • React Testing Library • CI/CD  
+npm • Vercel • Netlify
 
-- Developed responsive web pages using HTML, CSS & JavaScript  
-- Improved UX and implemented SEO best practices  
-- Built dynamic, customizable pages using **Elementor Pro & ACF**  
-- Performed testing, debugging & performance optimization  
+### **Cloud & Deployment**
+AWS Lightsail • S3 • Cloudflare
 
----
-
-## 🔥 Featured Projects
-
-### 🧳 **QTripDynamic**  
-**Tech:** HTML, CSS, JavaScript, Bootstrap, REST API  
-✔ Built a responsive travel booking site  
-✔ Dynamic city & adventure pages using Fetch API  
-✔ State persistence with localStorage  
-✔ Backend on Heroku & frontend on Netlify/Vercel  
+### **Other**
+WordPress • Elementor • ACF • SEO  
+Web Performance Optimization
 
 ---
 
-### 🛒 **QKart Frontend**  
-**Tech:** ReactJS, Material UI, React Router, Axios  
-✔ Built a full e-commerce frontend  
-✔ User login/registration + validation  
-✔ Product search with debouncing  
-✔ Cart + address management using APIs  
-✔ Deployed on Netlify  
+## 💼 **Professional Experience**
+
+### **Frontend Developer – I-Medita Learning Solutions Pvt. Ltd.**  
+📅 *Oct 2023 – Present*  
+- Revamped website performance: **10s → 0.4s load time**  
+- Contributed to **9% business growth in 2025**  
+- Improved UI/UX, SEO, and cross-browser compatibility  
+- Built WordPress + HTML/CSS/JS based interactive pages  
+- Deployed and maintained services on **AWS Lightsail**
+
+### **Intern Web Developer – I-Medita Learning Solutions Pvt. Ltd.**  
+📅 *Jul 2022 – Oct 2023*  
+- Developed responsive websites using React, JavaScript, WordPress  
+- Created reusable components and dynamic layouts via Elementor & ACF  
+- Improved technical SEO & optimized performance metrics  
+- Assisted in debugging UI/API issues
 
 ---
 
-### 🎵 **QTify**  
-**Tech:** ReactJS, CSS Modules, Swiper.js, Material UI  
-✔ Converted Figma → Pixel-perfect UI  
-✔ Song filtering + carousel UI  
-✔ Error/loading handling  
-✔ CI/CD via GitHub → Vercel  
+## 🚀 **Projects**
+
+### 🔹 **Medify – Medical Appointment Booking**
+🔗 Live: https://xm-edify.vercel.app/  
+Technologies: React.js, MUI, REST APIs, Axios, Swiper  
+- Search by state/city, calendar booking, user dashboard  
+- Fully responsive + Figma → React implementation  
+- Deployed on Vercel
 
 ---
 
-## 🎓 Education
-**B.E. in Computer Engineering**  
-VPS College of Engineering & Technology, Pune  
-📊 GPA: **8.84 / 10**
+### 🔹 **QKart – E-Commerce Frontend**
+🔗 Live: https://jayeshphale5-me-qkart-frontend-v2-3z5mnnijv.vercel.app/  
+Technologies: React, Material UI, React Router, Axios  
+- Authentication, search with debounce  
+- Cart & address management  
+- SPA deployed on Netlify
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jayeshphale&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/jayeshphale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/jayeshphale" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 🔹 **Bot AI – Chat With AI**
+🔗 Live: https://bot-ai-pi-eosin.vercel.app/  
+Technologies: React.js, MUI, LocalStorage  
+- Chat with AI + feedback system  
+- Dark/Light mode  
+- Saves conversation history
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my projects or connect with me.*
+## 🎓 **Education**
+**B.E. – Computer Engineering**  
+VPS College of Engineering & Technology, Lonavala  
+📌 *Savitribai Phule Pune University*  
+🎯 GPA: **8.84**
+
+---
+
+## 🔗 **Connect With Me**
+- **Portfolio:** https://www.crio.do/learn/portfolio/jayeshphale5/  
+- **LinkedIn:** https://www.linkedin.com/in/jayeshphale/  
+- **GitHub:** https://github.com/jayeshphale  
+- **Email:** jayeshphale5@gmail.com  
+- **Phone:** +91 8975142143  
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  

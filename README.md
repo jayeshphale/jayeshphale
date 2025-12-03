@@ -80,8 +80,8 @@ https://jayeshphale5-me-qkart-frontend-v2-3z5mnnijv.vercel.app/
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jayeshphale&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jayeshphale&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">

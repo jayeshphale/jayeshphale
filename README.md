@@ -1,76 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jayesh Phale</h1>
+<h1 align="center">Hi, I'm Jayesh Phale 👋</h1>
 
 <h3 align="center">
 Frontend Developer | MERN Stack Developer | WordPress Developer
 </h3>
 
 <p align="center">
-Building scalable, high-performance web applications with React, Node.js, MongoDB & WordPress.
+Building scalable, responsive and high-performance web applications with React, Node.js, MongoDB and WordPress.
 </p>
 
 <p align="center">
-<a href="https://github.com/jayeshphale">
-<img src="https://komarev.com/ghpvc/?username=jayeshphale&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
+  <a href="https://github.com/jayeshphale">
+    <img src="https://komarev.com/ghpvc/?username=jayeshphale&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
 
-<a href="https://github.com/jayeshphale?tab=followers">
-<img src="https://img.shields.io/github/followers/jayeshphale?logo=github&style=for-the-badge" />
-</a>
+  <a href="https://github.com/jayeshphale?tab=followers">
+    <img src="https://img.shields.io/github/followers/jayeshphale?style=for-the-badge&logo=github" alt="Followers"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/jayeshphale">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
+  <a href="https://www.linkedin.com/in/jayeshphale">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## <img src="https://img.icons8.com/fluency/24/about.png"/> About Me
 
-💼 Web Developer at **I-Medita Learning Solutions Pvt. Ltd.**
-
-🎓 Crio Fellowship – Full Stack Premium
-
-🚀 Passionate about building scalable Frontend & Full Stack applications.
-
-🌱 Currently learning **Advanced MERN Stack, Next.js, TypeScript & System Design**
-
-🎯 Looking for **Frontend Developer / React.js / MERN Stack Developer** opportunities.
-
-💬 Ask me about
-
-- React.js
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- WordPress
-
-📍 Pune, Maharashtra, India
+- Web Developer at **I-Medita Learning Solutions Pvt. Ltd.**
+- Crio Fellowship – **Full Stack Premium**
+- 2+ years of professional experience in WordPress Development
+- Passionate about Frontend Development and Full Stack MERN applications
+- Currently transitioning into **React.js / MERN Stack Development**
+- Open to **Frontend Developer**, **React.js Developer**, and **MERN Stack Developer** opportunities
 
 ---
 
-# 🌐 Connect With Me
+## <img src="https://img.icons8.com/fluency/24/link.png"/> Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/jayeshphale">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:jayeshphale5@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/jayeshphale">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+## <img src="https://img.icons8.com/fluency/24/source-code.png"/> Tech Stack
 
 <p>
 
@@ -80,57 +65,56 @@ Building scalable, high-performance web applications with React, Node.js, MongoD
 
 ---
 
-# 🚀 Featured Projects
+## <img src="https://img.icons8.com/fluency/24/rocket.png"/> Featured Projects
 
-## 🚪 XEXIT – Employee Resignation & Exit Interview Management System
+### XEXIT
+Employee Resignation & Exit Interview Management System built using the MERN Stack with authentication, RBAC, email notifications, and HR workflows.
 
-Full Stack MERN application with authentication, RBAC, resignation workflow, HR approvals, email notifications and exit interview management.
-
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT • Nodemailer
-
----
-
-## 🛒 QKart
-
-Complete E-Commerce platform built with React and Node.js featuring authentication, shopping cart, checkout and REST APIs.
-
-**Tech Stack:** React • Node.js • Express • MongoDB • Material UI
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Nodemailer
 
 ---
 
-## 💰 XPense Tracker
+### QKart
 
-Expense management application with Redux Toolkit featuring budget tracking, analytics and transaction management.
+Full Stack E-Commerce platform with authentication, shopping cart, checkout flow and REST APIs.
 
-**Tech Stack:** React • Redux Toolkit • JavaScript
-
----
-
-## 🤖 XBot AI
-
-AI Chat application supporting conversation history, feedback collection and local storage persistence.
-
-**Tech Stack:** React • React Router • JavaScript
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Material UI
 
 ---
 
-## 🏥 XMedify
+### XPense Tracker
 
-Medical center finder with appointment booking and REST API integration.
+Expense Management application with Redux Toolkit featuring budget management, analytics and transaction tracking.
 
-**Tech Stack:** React • REST APIs • React Router
-
----
-
-## 🎵 QTify
-
-Music streaming application with reusable components, Swiper.js and Material UI.
-
-**Tech Stack:** React • Material UI • Swiper.js
+**Tech Stack:** React.js • Redux Toolkit • JavaScript
 
 ---
 
-# 📊 GitHub Stats
+### XBot AI
+
+AI Chat Application supporting multiple conversations, history management and user feedback.
+
+**Tech Stack:** React.js • React Router • JavaScript
+
+---
+
+### XMedify
+
+Medical Center Finder with Appointment Booking and REST API integration.
+
+**Tech Stack:** React.js • REST APIs • React Router
+
+---
+
+### QTify
+
+Music Streaming Platform featuring reusable components, Material UI and Swiper.js.
+
+**Tech Stack:** React.js • Material UI • Swiper.js
+
+---
+
+## <img src="https://img.icons8.com/fluency/24/combo-chart.png"/> GitHub Statistics
 
 <p align="center">
 
@@ -142,7 +126,7 @@ Music streaming application with reusable components, Swiper.js and Material UI.
 
 ---
 
-# 🔥 GitHub Streak
+## <img src="https://img.icons8.com/fluency/24/fire-element.png"/> Contribution Streak
 
 <p align="center">
 
@@ -152,7 +136,7 @@ Music streaming application with reusable components, Swiper.js and Material UI.
 
 ---
 
-# 🏆 GitHub Trophies
+## <img src="https://img.icons8.com/fluency/24/prize.png"/> GitHub Achievements
 
 <p align="center">
 
@@ -162,24 +146,29 @@ Music streaming application with reusable components, Swiper.js and Material UI.
 
 ---
 
-# 📚 Currently Learning
+## <img src="https://img.icons8.com/fluency/24/goal.png"/> Career Objective
 
-- Advanced MERN Stack
-- Next.js
-- TypeScript
-- System Design
-- Data Structures & Algorithms
+Seeking opportunities as a **Frontend Developer**, **React.js Developer**, or **MERN Stack Developer** where I can contribute to building scalable, user-focused applications while continuously learning modern web technologies.
 
 ---
 
-# 💡 Fun Fact
+## <img src="https://img.icons8.com/fluency/24/light-on.png"/> Core Strengths
 
-> I enjoy transforming ideas into scalable web applications and continuously learning modern web technologies.
+- Frontend Development
+- Full Stack MERN Development
+- WordPress Development
+- REST API Integration
+- Responsive Web Design
+- Performance Optimization
+- Authentication & Authorization
+- Problem Solving
+- Data Structures & Algorithms
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, consider following me and checking out my repositories!
+<b>Thanks for visiting my profile!</b><br>
+If you like my work, feel free to connect or explore my repositories.
 
 </p>

@@ -28,7 +28,7 @@ Building scalable, responsive and high-performance web applications with React, 
 
 - Web Developer at **I-Medita Learning Solutions Pvt. Ltd.**
 - Crio Fellowship – **Full Stack Premium**
-- 2+ years of professional experience in WordPress Development
+- 2.6+ years of professional experience in WordPress Development
 - Passionate about Frontend Development and Full Stack MERN applications
 - Currently transitioning into **React.js / MERN Stack Development**
 - Open to **Frontend Developer**, **React.js Developer**, and **MERN Stack Developer** opportunities
@@ -117,11 +117,8 @@ Music Streaming Platform featuring reusable components, Material UI and Swiper.j
 ## <img src="https://img.icons8.com/fluency/24/combo-chart.png"/> GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayeshphale&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayeshphale&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -129,9 +126,7 @@ Music Streaming Platform featuring reusable components, Material UI and Swiper.j
 ## <img src="https://img.icons8.com/fluency/24/fire-element.png"/> Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jayeshphale&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=jayeshphale&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -139,9 +134,7 @@ Music Streaming Platform featuring reusable components, Material UI and Swiper.j
 ## <img src="https://img.icons8.com/fluency/24/prize.png"/> GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jayeshphale&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=jayeshphale&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---

@@ -5,87 +5,181 @@ Frontend Developer | MERN Stack Developer | WordPress Developer
 </h3>
 
 <p align="center">
-Building scalable web applications with React, Node.js & WordPress
+Building scalable, high-performance web applications with React, Node.js, MongoDB & WordPress.
+</p>
+
+<p align="center">
+<a href="https://github.com/jayeshphale">
+<img src="https://komarev.com/ghpvc/?username=jayeshphale&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/jayeshphale?tab=followers">
+<img src="https://img.shields.io/github/followers/jayeshphale?logo=github&style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/jayeshphale">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-💼 Web Developer at I-Medita Learning Solutions Pvt. Ltd.
+💼 Web Developer at **I-Medita Learning Solutions Pvt. Ltd.**
 
-🌱 Learning Advanced MERN Stack, Next.js, TypeScript & System Design
+🎓 Crio Fellowship – Full Stack Premium
 
-🎯 Looking for Frontend / React.js / MERN Stack Opportunities
+🚀 Passionate about building scalable Frontend & Full Stack applications.
 
-💬 Ask me about React, JavaScript, Node.js & WordPress
+🌱 Currently learning **Advanced MERN Stack, Next.js, TypeScript & System Design**
+
+🎯 Looking for **Frontend Developer / React.js / MERN Stack Developer** opportunities.
+
+💬 Ask me about
+
+- React.js
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- WordPress
 
 📍 Pune, Maharashtra, India
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/jayeshphale
-- GitHub: https://github.com/jayeshphale
-- Email: jayeshphale5@gmail.com
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jayeshphale">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:jayeshphale5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/jayeshphale">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,bootstrap,git,github,linux,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,bootstrap,tailwind,wordpress,git,github,linux,postman,vscode"/>
 
 </p>
 
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
-### 🚀 XEXIT
-Full Stack MERN Employee Resignation & Exit Interview Management System
+## 🚪 XEXIT – Employee Resignation & Exit Interview Management System
 
-### 🛒 QKart
-React + Node.js E-Commerce Platform
+Full Stack MERN application with authentication, RBAC, resignation workflow, HR approvals, email notifications and exit interview management.
 
-### 💰 XPense Tracker
-Expense Tracking Application using React & Redux Toolkit
-
-### 🤖 XBot AI
-AI Chat Application with Conversation History
-
-### 🏥 XMedify
-Medical Appointment Booking Platform
-
-### 🎵 QTify
-Music Streaming Platform using React
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT • Nodemailer
 
 ---
 
-## 📈 GitHub Stats
+## 🛒 QKart
+
+Complete E-Commerce platform built with React and Node.js featuring authentication, shopping cart, checkout and REST APIs.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • Material UI
+
+---
+
+## 💰 XPense Tracker
+
+Expense management application with Redux Toolkit featuring budget tracking, analytics and transaction management.
+
+**Tech Stack:** React • Redux Toolkit • JavaScript
+
+---
+
+## 🤖 XBot AI
+
+AI Chat application supporting conversation history, feedback collection and local storage persistence.
+
+**Tech Stack:** React • React Router • JavaScript
+
+---
+
+## 🏥 XMedify
+
+Medical center finder with appointment booking and REST API integration.
+
+**Tech Stack:** React • REST APIs • React Router
+
+---
+
+## 🎵 QTify
+
+Music streaming application with reusable components, Swiper.js and Material UI.
+
+**Tech Stack:** React • Material UI • Swiper.js
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayeshphale&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayeshphale&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshphale&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=jayeshphale&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🏆 GitHub Trophies
 
-I love building production-ready web applications and continuously learning new technologies.
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jayeshphale&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced MERN Stack
+- Next.js
+- TypeScript
+- System Design
+- Data Structures & Algorithms
+
+---
+
+# 💡 Fun Fact
+
+> I enjoy transforming ideas into scalable web applications and continuously learning modern web technologies.
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider following me and checking out my repositories!
+
+</p>

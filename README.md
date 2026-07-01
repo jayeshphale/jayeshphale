@@ -1,45 +1,46 @@
-<h1 align="center">Hi, I'm Jayesh Phale 👋</h1>
+<h1 align="center">Hi 👋, I'm Jayesh Phale</h1>
 
 <h3 align="center">
 Frontend Developer | MERN Stack Developer | WordPress Developer
 </h3>
 
 <p align="center">
-Building scalable, responsive and high-performance web applications with React, Node.js, MongoDB and WordPress.
+Passionate about building scalable, responsive, and user-focused web applications using React.js, Node.js, MongoDB, and modern frontend technologies.
 </p>
 
 <p align="center">
-  <a href="https://github.com/jayeshphale">
-    <img src="https://komarev.com/ghpvc/?username=jayeshphale&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
+<a href="https://github.com/jayeshphale">
+<img src="https://komarev.com/ghpvc/?username=jayeshphale&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
-  <a href="https://github.com/jayeshphale?tab=followers">
-    <img src="https://img.shields.io/github/followers/jayeshphale?style=for-the-badge&logo=github" alt="Followers"/>
-  </a>
+<a href="https://github.com/jayeshphale?tab=followers">
+<img src="https://img.shields.io/github/followers/jayeshphale?style=for-the-badge&logo=github"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/jayeshphale">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/about.png"/> About Me
+# 👨‍💻 About Me
 
-- Web Developer at **I-Medita Learning Solutions Pvt. Ltd.**
-- Crio Fellowship – **Full Stack Premium**
-- 2.6+ years of professional experience in WordPress Development
-- Passionate about Frontend Development and Full Stack MERN applications
-- Currently transitioning into **React.js / MERN Stack Development**
-- Open to **Frontend Developer**, **React.js Developer**, and **MERN Stack Developer** opportunities
+- 💼 Web Developer at **I-Medita Learning Solutions Pvt. Ltd.**
+- 🎓 Crio.Do Full Stack Development Program
+- 🚀 Transitioning from WordPress Development to **Frontend & MERN Stack Development**
+- 💡 Passionate about building production-ready applications
+- 🌱 Currently strengthening React, Node.js, MongoDB, Next.js and System Design
+- 🎯 Open to Frontend Developer, React.js Developer and MERN Stack Developer opportunities
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/link.png"/> Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/jayeshphale">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -55,7 +56,7 @@ Building scalable, responsive and high-performance web applications with React, 
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/source-code.png"/> Tech Stack
+# 💻 Tech Stack
 
 <p>
 
@@ -65,103 +66,101 @@ Building scalable, responsive and high-performance web applications with React, 
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/rocket.png"/> Featured Projects
+# 🚀 Featured Projects
 
-### XEXIT
-Employee Resignation & Exit Interview Management System built using the MERN Stack with authentication, RBAC, email notifications, and HR workflows.
+## 🚪 XEXIT – Employee Exit Management System
+
+A full-stack MERN application for managing employee resignations, HR approvals, email notifications, and exit interviews with secure authentication and role-based access.
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Nodemailer
 
 ---
 
-### QKart
+## 🛒 QKart
 
-Full Stack E-Commerce platform with authentication, shopping cart, checkout flow and REST APIs.
+Full-stack E-Commerce application with secure authentication, shopping cart, checkout workflow, and REST API integration.
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • Material UI
 
 ---
 
-### XPense Tracker
+## 💰 XPense Tracker
 
-Expense Management application with Redux Toolkit featuring budget management, analytics and transaction tracking.
+Expense management application with Redux Toolkit supporting budget allocation, expense tracking, analytics, and responsive design.
 
 **Tech Stack:** React.js • Redux Toolkit • JavaScript
 
 ---
 
-### XBot AI
+## 🤖 XBot AI
 
-AI Chat Application supporting multiple conversations, history management and user feedback.
+AI Chat application supporting multiple conversations, feedback collection, conversation history, and local storage persistence.
 
 **Tech Stack:** React.js • React Router • JavaScript
 
 ---
 
-### XMedify
+## 🏥 XMedify
 
-Medical Center Finder with Appointment Booking and REST API integration.
+Medical appointment booking application with hospital search, state/city filtering, appointment scheduling, and API integration.
 
 **Tech Stack:** React.js • REST APIs • React Router
 
 ---
 
-### QTify
+## 🎵 QTify
 
-Music Streaming Platform featuring reusable components, Material UI and Swiper.js.
+Music streaming platform featuring reusable React components, Material UI, Swiper.js carousels, and genre-based filtering.
 
 **Tech Stack:** React.js • Material UI • Swiper.js
 
 ---
 
-## <img src="https://img.icons8.com/fluency/24/combo-chart.png"/> GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayeshphale&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## <img src="https://img.icons8.com/fluency/24/fire-element.png"/> Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayeshphale&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## <img src="https://img.icons8.com/fluency/24/prize.png"/> GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayeshphale&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## <img src="https://img.icons8.com/fluency/24/goal.png"/> Career Objective
-
-Seeking opportunities as a **Frontend Developer**, **React.js Developer**, or **MERN Stack Developer** where I can contribute to building scalable, user-focused applications while continuously learning modern web technologies.
-
----
-
-## <img src="https://img.icons8.com/fluency/24/light-on.png"/> Core Strengths
+# 🎯 Core Skills
 
 - Frontend Development
-- Full Stack MERN Development
+- React.js
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Redux Toolkit
 - WordPress Development
-- REST API Integration
 - Responsive Web Design
 - Performance Optimization
 - Authentication & Authorization
+- Git & GitHub
 - Problem Solving
 - Data Structures & Algorithms
 
 ---
 
+# 📌 Current Focus
+
+- Building production-ready MERN applications
+- Exploring Next.js & TypeScript
+- Improving System Design fundamentals
+- Contributing to open-source projects
+- Preparing for Frontend & MERN interviews
+
+---
+
+# 📫 Let's Connect
+
+- 💼 LinkedIn: YOUR_LINKEDIN_URL
+- 💻 GitHub: https://github.com/jayeshphale
+- 📧 Email: jayeshphale5@gmail.com
+- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+
+---
+
 <p align="center">
 
-<b>Thanks for visiting my profile!</b><br>
-If you like my work, feel free to connect or explore my repositories.
+<b>Thanks for visiting my profile!</b>
+
+If you like my work, feel free to explore my repositories and connect with me.
+
+⭐ Happy Coding!
 
 </p>

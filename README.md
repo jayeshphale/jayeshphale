@@ -1,109 +1,91 @@
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Jayesh+Phale+👋;Full+Stack+Developer+🚀;React.js+%7C+Node.js+%7C+MERN+%7C+AWS" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Jayesh Phale</h1>
+
+<h3 align="center">
+Frontend Developer | MERN Stack Developer | WordPress Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayeshphale&label=Profile%20Views&color=1f6feb&style=flat-square" alt="profile views" />
+Building scalable web applications with React, Node.js & WordPress
 </p>
 
 ---
 
-# 👨‍💻 About Me  
-💡 Full-Stack Developer passionate about building **high-performance, scalable, and user-friendly** web apps.  
-⚡ Improved website load time from **10s → 0.4s (96% faster)**  
-📈 Contributed to **9% company growth** via digital optimization  
-🌍 Open to collaborating and building impactful products  
-❤️ Love clean code, UI/UX, and solving real-world problems  
+## 🚀 About Me
+
+💼 Web Developer at I-Medita Learning Solutions Pvt. Ltd.
+
+🌱 Learning Advanced MERN Stack, Next.js, TypeScript & System Design
+
+🎯 Looking for Frontend / React.js / MERN Stack Opportunities
+
+💬 Ask me about React, JavaScript, Node.js & WordPress
+
+📍 Pune, Maharashtra, India
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 🌐 Connect with Me
 
-### 🚀 **Frontend**
+- LinkedIn: https://linkedin.com/in/jayeshphale
+- GitHub: https://github.com/jayeshphale
+- Email: jayeshphale5@gmail.com
+
+---
+
+## 💻 Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,materialui,tailwind" height="50" />
-</p>
 
-### 🧩 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,bootstrap,git,github,linux,postman,vscode"/>
 
-### 🗄️ **Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
 </p>
-
-### 🧪 **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,aws" height="50" />
-</p>
-
-### 🎨 **Other Skills**
-- WordPress • Elementor • ACF  
-- SEO Optimization  
-- Web Performance Optimization  
 
 ---
 
-# 🚀 Featured Projects
+## ⭐ Featured Projects
 
-## 🔹 **Medify – Medical Appointment Booking**
-🔗 **Live:** https://xm-edify.vercel.app/  
-📦 *React • MUI • REST APIs • Axios*  
-✔ Appointment booking, location-based search  
-✔ Calendar-based scheduling  
-✔ Fully responsive UI  
+### 🚀 XEXIT
+Full Stack MERN Employee Resignation & Exit Interview Management System
 
----
+### 🛒 QKart
+React + Node.js E-Commerce Platform
 
-## 🔹 **QKart – E-Commerce Frontend**
-🔗 **Live:**  
-https://jayeshphale5-me-qkart-frontend-v2-3z5mnnijv.vercel.app/  
-📦 *React • React Router • MUI • Netlify*  
-✔ User auth + cart + address management  
-✔ Search with debounce  
-✔ Clean SPA routing  
+### 💰 XPense Tracker
+Expense Tracking Application using React & Redux Toolkit
 
----
+### 🤖 XBot AI
+AI Chat Application with Conversation History
 
-## 🔹 **Bot AI – Chat with AI**
-🔗 **Live:** https://bot-ai-pi-eosin.vercel.app/  
-📦 *React • MUI • LocalStorage*  
-✔ Chat with AI  
-✔ Feedback system + Analytics  
-✔ Dark & Light theme  
+### 🏥 XMedify
+Medical Appointment Booking Platform
+
+### 🎵 QTify
+Music Streaming Platform using React
 
 ---
 
-# 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=jayeshphale&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=jayeshphale&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshphale&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 💻 Most Used Languages
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayeshphale/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jayeshphale5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/jayeshphale" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.crio.do/learn/portfolio/jayeshphale5/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshphale&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
-</p>
+## ⚡ Fun Fact
+
+I love building production-ready web applications and continuously learning new technologies.
